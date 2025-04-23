@@ -27,11 +27,12 @@ Built using [Mapbox GL JS](https://docs.mapbox.com/mapbox-gl-js/), this project 
 
 ---
 
-## Roadmap
+## For Future Deployments
 
 | Planned Feature | Description |
 |----------------|-------------|
 | **3D Density Visualization** | Use vertical extrusions to show concentration of EV chargers |
+| **Responsive Circle Sizes** | Intuitively resize the size of the circles of the current deployment when the user zooms in or out. |
 | **State/City Labels** | Display intuitive labels with smart transparency to avoid overlap |
 | **Charger Type Filter** | Add UI controls to toggle visibility of public/private chargers |
 | **Choropleth Overlay** | Visualize EV registrations per state as a choropleth for deeper analysis |
