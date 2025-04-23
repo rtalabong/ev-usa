@@ -1,6 +1,6 @@
 # ⚡ Electric Vehicle Charging in the United States
 
-This is an interactive web map that visualizes the spatial distribution of electric vehicle (EV) charging infrastructure across the United States. It highlights where public and private chargers are densely concentrated and where EV “charging deserts” exist, with the goal of helping inform infrastructure planning and policy awareness.
+[This](https://rtalabong.github.io/ev-usa/) is an interactive web map that visualizes the spatial distribution of electric vehicle (EV) charging infrastructure across the United States. It highlights where public and private chargers are densely concentrated and where EV “charging deserts” exist, with the goal of helping inform infrastructure planning and policy awareness.
 
 Built using [Mapbox GL JS](https://docs.mapbox.com/mapbox-gl-js/), this project combines geospatial data with interactivity, including EV policy summaries and zoomable, responsive mapping behavior. This project was developed for the Web Mapping course at NYU, taught by Chris Whong.
 
