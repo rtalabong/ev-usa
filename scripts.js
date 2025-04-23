@@ -72,6 +72,7 @@ map.on('load', () => {
         data: './data/public.geojson',
     });
 
+
     // Private EV chargers
     map.addSource('private', {
         type: 'geojson',
